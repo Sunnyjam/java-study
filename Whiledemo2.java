@@ -1,4 +1,4 @@
-public class whiledemo2 {
+public class Whiledemo2 {
     public static void main(String[] args){
         int i = 0;
 
