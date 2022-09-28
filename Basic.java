@@ -6,7 +6,7 @@ public class Basic {
      // Type
      // 정수 : int
     // 실수 : double, float
-    public static void main(String[] args) {
+    public static void main(String[]args) {
         // 1 + 1 = 2
         // 선언
         int number = 1;
