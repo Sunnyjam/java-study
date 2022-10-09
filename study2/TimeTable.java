@@ -1,3 +1,5 @@
+package study2;
+
 // 구구단 2단 출력 성공하면, 2단부터 9단까지
 public class TimeTable {
      public static void main(String[] args){

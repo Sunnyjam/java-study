@@ -1,3 +1,5 @@
+package study2;
+
 /*
 * 사칙연산
 * */

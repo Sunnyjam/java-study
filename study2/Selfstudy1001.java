@@ -1,9 +1,12 @@
+package study2;
+
 public class Selfstudy1001 {
     public static void main(String[] args) {
         // 일력값 출력하기
         System.out.println( "Sunnyjam");
         System.out.println( " Going to sockcho");
         System.out.println( 1+2);
+        System.out.println("'test'" + "'test2'" + "'test3'");
         // "" 사용하기 실패 ㅜㅜ
 
         //줄바꿈

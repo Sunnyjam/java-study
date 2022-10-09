@@ -1,3 +1,5 @@
+package study2;
+
 public class BasicThree {
     public static void main(String[] args) {
         // 실수

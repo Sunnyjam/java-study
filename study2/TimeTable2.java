@@ -1,3 +1,5 @@
+package study2;
+
 public class TimeTable2 {
     public static void main(String[] args){
        for ( int i = 9; i > 0; i-- ){

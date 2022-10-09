@@ -1,3 +1,5 @@
+package study2;
+
 public class Exam {
     public static void main(String[] args) {
         // Java에 Loop (반복문) 중 하나인 for 를 사용해서 1부터 10까지의 합을 구하세요.

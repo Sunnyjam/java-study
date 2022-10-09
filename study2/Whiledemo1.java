@@ -1,3 +1,5 @@
+package study2;
+
 public class Whiledemo1 {
     public static void main(String[] args) { // 매개변수 , Parameter
         int i = 10;
