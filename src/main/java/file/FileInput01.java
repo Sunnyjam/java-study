@@ -1,11 +1,13 @@
-package src.main.java.study2;
+package src.main.java.file;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class FileInput {
+public class FileInput01 {
     public static void main(String[] args) {
+
+        //작성한 텍스트파일을 읽어서 그 내용을 출력하는 프로그램
 
         FileInputStream fis = null; // 전역 변수
 
