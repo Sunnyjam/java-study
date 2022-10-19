@@ -2,7 +2,7 @@ package src.main.java.method;
 
 public class Method02 {
     public static void main(String[] args) {
-        //main메소드
+        //main메소드,메소드를 사용하는 것='호출'
         sayHello();
         sayHelloTo("Chiickem");
     }
