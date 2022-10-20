@@ -16,7 +16,6 @@ public class UpAndDownGame {
         for(int i=0; i<8; i=i+1){
             System.out.println(8-i+"번의 기회가 있습니다.");
             System.out.println("추측한 숫자를 입력하세요.");
-            //숫자를 사용할 건데 왜 String이 들어가는 건지 이해가안가요.
             String input = scanner.nextLine();
             int guess = Integer.parseInt(input);
 
