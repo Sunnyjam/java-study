@@ -3,8 +3,8 @@ package src.main.java.list;
 import java.util.HashSet;
 
 public class Set {
-    /*List = 중복값을 허용한다
-      Set = 중복값을 허용하지 않는다.
+    /*List = 중복값을 허용한다,순서가 있다.
+      Set = 중복값을 허용하지 않는다,순서가 없다.
       Set<String> set = new HasSet<String>();
       Set 과 HasSet은 부모과 자식관계
       Set의 목적은 중복되지 않는 목적을 만들고 관리하는 것
